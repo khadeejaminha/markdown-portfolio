@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* Computer programmer
+  * Python
+  * Javascript
+  * C
+* Web Developer
+  * Html
+  * CSS
+  * Bootstrap

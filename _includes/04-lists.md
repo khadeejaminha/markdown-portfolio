@@ -1,8 +1,8 @@
-* Computer programmer
+* Computer programmer ✨
   * Python
   * Javascript
   * C
-* Web Developer
+* Web Developer ✨
   * Html
   * CSS
   * Bootstrap

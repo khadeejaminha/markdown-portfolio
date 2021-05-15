@@ -1,1 +1,3 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+<center>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS199FIQH-uI8r4HPV3uVHiNWclfkszRpZrqw&usqp=CAU" alt="image" height="400px" width="500px">
+</center>
